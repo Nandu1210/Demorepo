@@ -4,7 +4,7 @@ public class HomePage {
 	
 	public void homepage() {
 		
-		System.out.println("Home page");
+		System.out.println("Home page of the crm");
 	}
 
 }
